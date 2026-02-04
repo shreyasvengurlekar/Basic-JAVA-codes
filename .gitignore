@@ -1,0 +1,38 @@
+# Compiled Java class files
+*.class
+
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+*.swp
+*.bak
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# IDE folders
+.idea/
+.vscode/
+.settings/
+.project
+.classpath
+
+# Build folders
+bin/
+out/
+target/
+
+# Package files
+*.jar
+*.war
+*.ear
+
+# Database files (if any local)
+*.db
+*.sqlite
+
+# Node modules (in case GUI tools add them)
+node_modules/
