@@ -146,6 +146,7 @@ You are free to use, modify, and distribute this code with attribution.
 
 ## 👨‍💻 Author
 
-## [Shreyas Vengurlekar](https://www.linkedin.com/in/shreyasvengurlekar)
+## Shreyas Vengurlekar
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shreyasvengurlekar)
 
 Created as part of learning and college practicals to build strong Java fundamentals.
